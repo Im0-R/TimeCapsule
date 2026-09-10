@@ -67,8 +67,8 @@ This repository currently serves as a project showcase. The Unity source and dow
 ## More
 
 - [View the project on Creajeux](https://www.creajeux.fr/project/timecapsule)
-- [View the full portfolio case study](https://leopaulvray.lovable.app/projects/timecapsule)
-- [Explore my other projects](https://leopaulvray.lovable.app)
+- [View the full portfolio case study](https://leopaulvray.com/projects/timecapsule)
+- [Explore my other projects](https://leopaulvray.com)
 
 ## Author
 
